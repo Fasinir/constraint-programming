@@ -1,0 +1,4 @@
+output ((((["obj = "]++[show(sum(score))])++[";"])++["\norder = "])++[show(order)])++[";"];
+set of int: STUDENTS = 1..18;
+array [STUDENTS] of int: score;
+array [STUDENTS] of int: order;

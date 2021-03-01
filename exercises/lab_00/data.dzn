@@ -1,0 +1,6 @@
+menu_length = 6;
+range = 1..menu_length;
+money_limit = 1505;
+menu_prices = [220, 275, 335, 355, 420,580];
+menu_names = ["fruit", "fries", "salad", "wings", "sticks", "sampler"];
+yumyum_factors =[300, 340, 200, 400, 500, 600];

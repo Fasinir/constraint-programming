@@ -1,0 +1,4 @@
+﻿problem size (N);default;input_order/indomain_min;input_order/indomain_median;first_fail/indomain_min;first_fail/indomain_medium;<choose yourself>
+8;149ms;153ms;152ms;149ms;149ms;
+48;167ms;>2m;12s;163ms;175ms;
+1000;5s;>2m;>2m;6s;8s;
